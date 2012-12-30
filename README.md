@@ -1,7 +1,7 @@
 One Power Guard Open API
 ====================
 
-<b>This is One Power Guard API, you can use it to develop your own applications like JuiceDefender. For example: Battery Taker, Local Taker, Game Taker, Process Manager, ect. <br/><br/> 
+<b>The 2.3 Version begins to support open API. The developer can use it to develop your own applications like JuiceDefender, Deep Sleep Battery Saver. or Battery Taker, Local Taker, Game Taker, Process Manager, ect. Just need a little creative. <br/><br/> 
 
 The API Description:</b><br/>
 <b>1. You need to know about Android API and how to develop an android software.</b><br/>
